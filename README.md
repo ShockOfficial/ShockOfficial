@@ -16,23 +16,36 @@ I've created 1 commercial project and my own portfolio website already. Of cours
 <b> Check my repository! <b>
 - https://github.com/ShockOfficial/ShockOfficial.github.io
 - 🔴 live demo: https://pawelmotyka.netlify.app/
+<p align="left">
+    <img src="https://github.com/ShockOfficial/ShockOfficial.github.io/blob/main/prev.png" width="350" title="preview image">
+</p>
+    
     
 ### Forkify ( OOP with API app )
 <b> Check my repository! <b>
 - https://github.com/ShockOfficial/forkify
 - 🔴 live demo: https://shock-forkify.netlify.app/
-
+<p align="left">
+    <img src="https://github.com/ShockOfficial/SimpleToDoList2/blob/main/prev.png" width="350" title="preview image">
+</p>
      
 ### ToDO List with draggable items and sorting
 <b> Check my repository! <b>
 - https://github.com/ShockOfficial/SimpleToDoList2
 - 🔴 live demo: https://shocktodo.netlify.app/
+<p align="left">
+    <img src="https://github.com/ShockOfficial/SimpleToDoList2/blob/main/prev.png" width="350" title="preview image">
+</p>
 
 ### BlackJack
 <b> Check my repository! <b>
 - https://github.com/ShockOfficial/SimpleBlackjack
 - 🔴 live demo: https://shockblackjack.netlify.app/
-      
+<p align="left">
+    <img src="https://github.com/ShockOfficial/SimpleBlackjack/blob/main/prev.png" width="350" title="preview image">
+</p>
+    
+    
 ### Rock Paper Scissors
 <b> Check my repository! <b>
 - https://github.com/ShockOfficial/RockPaperScissors
