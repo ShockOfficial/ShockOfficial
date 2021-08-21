@@ -11,6 +11,9 @@ I've created 1 commercial project and my own portfolio website already. Of cours
 <b> Check my repository! <b>
 - https://github.com/ShockOfficial/PhotographerWeb
 - 🔴 live demo: https://monikamotykaphotography.netlify.app/#home
+<p align="left">
+    <img src="https://github.com/ShockOfficial/PhotographerWeb/blob/main/prev.png" width="350" title="preview image">
+</p>
 
 ### My portfolio web
 <b> Check my repository! <b>
@@ -26,7 +29,7 @@ I've created 1 commercial project and my own portfolio website already. Of cours
 - https://github.com/ShockOfficial/forkify
 - 🔴 live demo: https://shock-forkify.netlify.app/
 <p align="left">
-    <img src="https://github.com/ShockOfficial/SimpleToDoList2/blob/main/prev.png" width="350" title="preview image">
+    <img src="https://github.com/ShockOfficial/forkify/blob/main/prev.png" width="350" title="preview image">
 </p>
      
 ### ToDO List with draggable items and sorting
