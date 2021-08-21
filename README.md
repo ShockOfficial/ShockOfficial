@@ -38,7 +38,7 @@ I've created 1 commercial project and my own portfolio website already. Of cours
 - https://github.com/ShockOfficial/RockPaperScissors
 - 🔴 live demo: https://rpsshock.netlify.app/
     
-<p align="center">
+<p align="left">
   <img src="https://github.com/ShockOfficial/RockPaperScissors/blob/main/prev.png" width="350" title="preview image">
 </p>
 <!---
