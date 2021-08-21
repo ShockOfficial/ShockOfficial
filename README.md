@@ -37,6 +37,10 @@ I've created 1 commercial project and my own portfolio website already. Of cours
 <b> Check my repository! <b>
 - https://github.com/ShockOfficial/RockPaperScissors
 - 🔴 live demo: https://rpsshock.netlify.app/
+    
+<p align="center">
+  <img src="https://github.com/ShockOfficial/RockPaperScissors/blob/main/prev.png" width="350" title="preview image">
+</p>
 <!---
 ShockOfficial/ShockOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
