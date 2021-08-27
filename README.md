@@ -24,6 +24,7 @@ I've created 1 commercial project and my own portfolio website already. Of cours
 </p>
     
     
+    
 ### Forkify ( OOP with API app )
 <b> Check my repository! <b>
 - https://github.com/ShockOfficial/forkify
@@ -31,6 +32,15 @@ I've created 1 commercial project and my own portfolio website already. Of cours
 <p align="left">
     <img src="https://github.com/ShockOfficial/forkify/blob/main/prev.png" width="350" title="preview image">
 </p>
+    
+### Quiz App ( OOP, API, MVC )
+<b> Check my repository! <b>
+- https://github.com/ShockOfficial/quizzApp
+- 🔴 live demo: https://shock-quizz.netlify.app/
+<p align="left">
+    <img src="https://github.com/ShockOfficial/quizzApp/blob/main/prev.png" width="350" title="preview image">
+</p>
+    
      
 ### ToDO List with draggable items and sorting
 <b> Check my repository! <b>
