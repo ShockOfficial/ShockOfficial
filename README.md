@@ -23,8 +23,15 @@ I've created 1 commercial project and my own portfolio website already. Of cours
     <img src="https://github.com/ShockOfficial/ShockOfficial.github.io/blob/main/prev.png" width="350" title="preview image">
 </p>
     
+### Netflix clone!
+<b> Check my repository! <b>
+- https://github.com/ShockOfficial/NetflixClone
+- 🔴 live demo: https://shock-netflix.netlify.app/
+<p align="left">
+    <img src="https://github.com/ShockOfficial/NetflixClone/blob/main/preView.png" width="350" title="preview image">
+</p>
     
-    
+   
 ### Forkify ( OOP with API app )
 <b> Check my repository! <b>
 - https://github.com/ShockOfficial/forkify
@@ -32,6 +39,8 @@ I've created 1 commercial project and my own portfolio website already. Of cours
 <p align="left">
     <img src="https://github.com/ShockOfficial/forkify/blob/main/prev.png" width="350" title="preview image">
 </p>
+    
+    
     
 ### Quiz App ( OOP, API, MVC )
 <b> Check my repository! <b>
