@@ -81,7 +81,7 @@ I've created 1 commercial project and my own portfolio website already. Of cours
 ### Chat App
 <b> Check my repository! <b>
 - https://github.com/ShockOfficial/Real-Time-Chat
--live demo 🔴:  https://shock-chat.netlify.app/
+- live demo 🔴:  https://shock-chat.netlify.app/
     <p align="left">
     <img src="https://github.com/ShockOfficial/Real-Time-Chat/blob/main/prev.png" width="350" title="preview image">
 </p>
