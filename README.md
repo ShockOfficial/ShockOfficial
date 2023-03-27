@@ -1,5 +1,6 @@
 # About me
 - 👋 Hi, I’m Paweł Motyka
+- 🎓 AGH IT WiET student 
 - 👀 I’m interested in IT ( precisely Full stack, cyber security and networking)
 - 🌱 I’m currently learning Front-end
 - 🗓  I started my journy to become Junior Frontend Developer on 24.05.2021r.
@@ -19,6 +20,15 @@ I've created 1 commercial project and my own portfolio website already. Of cours
 <b> Check my repository! <b>
 - https://github.com/ShockOfficial/ShockOfficial.github.io
 - 🔴 live demo: https://pawelmotyka.netlify.app/
+<p align="left">
+    <img src="https://github.com/ShockOfficial/ShockOfficial.github.io/blob/main/prev.png" width="350" title="preview image">
+</p>
+    
+### Angular Project
+<b> ⚠️ Project made for study course! ⚠️ <b> <br>
+<b> Check my repository! <b>
+- https://github.com/ShockOfficial/WDAI/tree/main/Lab_5/Zadanie5
+- 🔴 live demo: TBA
 <p align="left">
     <img src="https://github.com/ShockOfficial/ShockOfficial.github.io/blob/main/prev.png" width="350" title="preview image">
 </p>
